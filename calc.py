@@ -73,8 +73,7 @@ while (True):
             print "Product: ", mult(a, b)
         elif (op == "/"):
             print "Quotient: ", div(a, b)
-
-		elif (op == "**"):
+        elif (op == "**"):
             print "Exponent: ", ex(a, b)
 
         elif (op == "%"):
